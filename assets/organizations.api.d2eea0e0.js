@@ -1,0 +1,1 @@
+import{S as o}from"./supabase.crud.9b86779c.js";class s extends o{constructor(){super("organizations")}}const r=new s;export{r as o};
